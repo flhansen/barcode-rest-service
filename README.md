@@ -12,6 +12,6 @@ This service is part of the [QRCodeTracker](https://github.com/flhansen/qrcodetr
 | `POST` | `/barcodes/new`  | Creates a new barcode entry inside the database |
 
 ## Quickstart
-Download the [latest release](https://github.com/flhansen/qrcodetracker-rest-service/releases) and run the application using the command
+Download the [latest release](https://github.com/flhansen/qrcodetracker-rest-service/releases/latest) and run the application using the command
 
     java -jar /path/to/qrcodetracker-rest-service-<version>.jar
