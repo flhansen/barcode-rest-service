@@ -7,9 +7,9 @@
   </parent>
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.florianhansen</groupId>
-  <artifactId>QRCodeTrackerService</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
-  <name>QRCodeTrackerService</name>
+  <artifactId>qrcodetracker-rest-service</artifactId>
+  <version>0.0.1</version>
+  <name>qrcodetracker-rest-service</name>
   <dependencies>
   	<dependency>
   		<groupId>org.springframework.boot</groupId>
